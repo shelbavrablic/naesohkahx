@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oovedeirah.ishi.io/sitemap.xml
